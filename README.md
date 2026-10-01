@@ -33,5 +33,5 @@ building projects, solving problems, and improving my software development skill
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Omar Fathi]([](https://www.linkedin.com/in/omar-fathi-dev?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn: [Omar Fathi]([](https://www.linkedin.com/in/omar-fathi-dev)
 - GitHub: [Omar-Fathi-Dev](https://github.com/Omar-Fathi-Dev)
